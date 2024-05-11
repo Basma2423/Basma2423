@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+schwifty!+I'm+Basma+Diving+into+code+adventures+that+would+make+even+Rick+Sanchez+proud.)](https://git.io/typing-svg)                                                                                                                        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=500&height=100&lines=Get+schwifty!+It's+Basma;Diving+into+code+adventures+that+would+...;make+even+Rick+Sanchez+proud.)](https://git.io/typing-svg)                                                                                                                                                               
+  
+  
   
   
   
