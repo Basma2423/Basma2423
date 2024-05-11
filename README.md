@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+schwifty!+I'm+Basma;Diving+into+code+adventures+that+would+make+even+Rick+Sanchez+proud.)](https://git.io/typing-svg)                                                                                                                        
+  
+  
+  
+  
+  
+  
 
 <!--
 **Basma2423/Basma2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
