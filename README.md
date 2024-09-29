@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=20&multiline=true&random=false&width=500&height=100&lines=Get+schwifty!;Diving+into+code+adventures+that+might;or+might+not+make+Rick+Sanchez+proud.)](https://git.io/typing-svg)                                                                                                                                                                                  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=20&multiline=true&random=false&width=500&height=100&lines=Get+schwifty!)](https://git.io/typing-svg)                                                                                                                                                                                  
   
   
   
